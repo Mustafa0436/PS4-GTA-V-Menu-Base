@@ -1,14 +1,17 @@
 # PS4 GTA V Menu Base
 A mod menu GUI for PS4 GTA V built on top of [my native caller](https://github.com/2much4u/PS4-GTA-V-Native-Caller).
 
+## How to Activate
+* Press DPAD RIGHT + SQUARE 
+
+## PAY ATTENTION PLEASE! 
+This mod menu is very unstable and will most likely crash GTA V many times before you get it to work. If you load ArabicGuy first, then close the game. Then load this mod menu, it will work.
+
 ## Pictures
 <img src="https://i.gyazo.com/f214b89550089a50e90923aa59632625.png" />
 <img src="https://i.gyazo.com/a60edd6687e75be105c823fc37f3d3b1.png" />
 <img src="https://i.gyazo.com/5d44b992caadf9d66321d84e36493844.png" />
 <img src="https://i.gyazo.com/0781c10337e2be48f06d090bfbbd1518.png" />
-
-## How to Activate
-* Press DPAD RIGHT + SQUARE 
 
 ## PAY ATTENTION PLEASE! 
 This mod menu is very unstable and will most likely crash GTA V many times before you get it to work. If you load ArabicGuy first, then close the game. Then load this mod menu, it will work.
