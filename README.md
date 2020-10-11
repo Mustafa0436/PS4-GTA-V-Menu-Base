@@ -7,6 +7,9 @@ A mod menu GUI for PS4 GTA V built on top of [my native caller](https://github.c
 <img src="https://i.gyazo.com/5d44b992caadf9d66321d84e36493844.png" />
 <img src="https://i.gyazo.com/0781c10337e2be48f06d090bfbbd1518.png" />
 
+## How to Activate
+* Press DPAD RIGHT + SQUARE 
+
 ## Key Features
 * Unlimited submenus
 * Unlimited options
@@ -17,6 +20,9 @@ A mod menu GUI for PS4 GTA V built on top of [my native caller](https://github.c
 * Support for numerous dynamic option types
 * Button instructions display
 * Example options and vehicle spawner
+
+## PAY ATTENTION PLEASE! 
+This mod menu is very unstable and will most likely crash GTA V many times before you get it to work. If you load ArabicGuy first, then close the game. Then load this mod menu, it will work.
 
 ## Notes
 While the example submenus showcase much of the menu base's functionality, more is possible. Check out `menu.cpp` for all supported option types.
