@@ -12,10 +12,7 @@ This mod menu is very unstable and will most likely crash GTA V many times befor
 <img src="https://i.gyazo.com/a60edd6687e75be105c823fc37f3d3b1.png" />
 <img src="https://i.gyazo.com/5d44b992caadf9d66321d84e36493844.png" />
 <img src="https://i.gyazo.com/0781c10337e2be48f06d090bfbbd1518.png" />
-
-## PAY ATTENTION PLEASE! 
-This mod menu is very unstable and will most likely crash GTA V many times before you get it to work. If you load ArabicGuy first, then close the game. Then load this mod menu, it will work.
-
+ 
 ## Key Features
 * Unlimited submenus
 * Unlimited options
