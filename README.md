@@ -1,7 +1,7 @@
 # PS4 GTA V Menu Base
 A mod menu GUI for PS4 GTA V built on top of [my native caller](https://github.com/2much4u/PS4-GTA-V-Native-Caller).
 
-## How to Activate
+## How to Activate 
 * Press DPAD RIGHT + SQUARE 
 
 ## PAY ATTENTION PLEASE! 
